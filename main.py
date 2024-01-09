@@ -6,3 +6,4 @@ my_dict = {
 }
 
 print(greeting)
+print(my_dict["Animal"])
