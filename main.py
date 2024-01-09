@@ -1,7 +1,7 @@
 greeting = "Helloooooo!"
 my_list = ["Banana", "Apple", "Raspberry"]
 my_dict = {
-    "Animal": "Polar Bear",
+    "Animal": "Iguana",
     "Is Mammal": True
 }
 
