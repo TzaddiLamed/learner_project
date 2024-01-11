@@ -1,9 +1,9 @@
 greeting = "Helloooooo!"
 my_list = ["Banana", "Apple", "Raspberry"]
 my_dict = {
-    "Animal": "Iguana",
-    "Is Mammal": False,
-    "Is Reptile": True
+    "Animal": "Possum",
+    "Is Mammal": True,
+    "Is Reptile": False
 }
 
 print(greeting)
