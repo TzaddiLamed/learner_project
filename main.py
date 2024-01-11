@@ -7,4 +7,4 @@ my_dict = {
 }
 
 print(greeting)
-print(f"{my_dict["Animal"]} is a reptile? {my_dict["Is Reptile"]}")
+print(f"{my_dict["Animal"]} is a reptile? {my_dict["Is Reptile"]}! Of course!!")
